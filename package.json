@@ -1,0 +1,17 @@
+{
+  "name": "firebase-node",
+  "version": "1.0.0",
+  "description": "desafio tecnico dev back end  capital empreendedor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "firebase-admin": "^13.0.2"
+  }
+}
