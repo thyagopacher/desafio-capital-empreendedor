@@ -61,7 +61,7 @@ Configuração do Firebase
 Clone o repositório:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/thegaab/desafio-capital-empreendedor.git
 ```
 
 Instale as dependências:
